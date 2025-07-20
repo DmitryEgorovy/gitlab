@@ -34,9 +34,9 @@
 <img width="1403" height="903" alt="image" src="https://github.com/user-attachments/assets/4933042c-5ab8-4b17-86e2-0a4eb4986886" />
 `Создал новый проект и пустой репозиторий в нём`
 <img width="1566" height="926" alt="image" src="https://github.com/user-attachments/assets/dc7ac4be-bf84-47ea-b58e-bc974a2d92eb" />
+`Зарегистрировал gitlab-runner заупстил в Docker`
+<img width="1168" height="845" alt="image" src="https://github.com/user-attachments/assets/53b12bf1-0dec-4e79-9769-548189885af1" />
 
-
-2. `Заполните здесь этапы выполнения, если требуется ....`
 3. `Заполните здесь этапы выполнения, если требуется ....`
 4. `Заполните здесь этапы выполнения, если требуется ....`
 5. `Заполните здесь этапы выполнения, если требуется ....`
