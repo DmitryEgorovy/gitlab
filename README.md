@@ -36,8 +36,9 @@
 <img width="1566" height="926" alt="image" src="https://github.com/user-attachments/assets/dc7ac4be-bf84-47ea-b58e-bc974a2d92eb" />
 `Зарегистрировал gitlab-runner заупстил в Docker`
 <img width="1168" height="845" alt="image" src="https://github.com/user-attachments/assets/53b12bf1-0dec-4e79-9769-548189885af1" />
+`Настройки раннера`
+<img width="1626" height="930" alt="image" src="https://github.com/user-attachments/assets/aca7f79c-57c2-4cac-8bc5-8bd07779b0e9" />
 
-3. `Заполните здесь этапы выполнения, если требуется ....`
 4. `Заполните здесь этапы выполнения, если требуется ....`
 5. `Заполните здесь этапы выполнения, если требуется ....`
 6. 
